@@ -1,6 +1,8 @@
 # Automatizando o que não deveria ser manual 🤖
 
-## 💻 while(alive) { Thaíne.build() }
+## 💻 while (alive) {
+        Thaíne.build()
+       }
 
 Sou estudante de Engenharia de Software e atualmente atuo na área de Departamento Pessoal.
 
