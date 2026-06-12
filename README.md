@@ -1,8 +1,6 @@
 # Automatizando o que não deveria ser manual 🤖
 
-## 💻 while (alive) {
-        Thaíne.build()
-       }
+## ⚙️ Rodando em produção: Thaíne Ormeneze
 
 Sou estudante de Engenharia de Software e atualmente atuo na área de Departamento Pessoal.
 
